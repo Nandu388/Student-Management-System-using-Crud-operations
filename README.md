@@ -155,7 +155,8 @@ Columns:
 ---
 
 # Screenshots
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/df778186-bc38-4d4e-b3cf-b078b6299472" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/5020e311-20d8-4313-b684-fc855bc0294e" />
+
 
 ## Home Page
 
